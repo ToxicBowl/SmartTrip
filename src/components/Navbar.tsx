@@ -17,7 +17,7 @@ import carsIconFilledImg from "../assets/favicons/car-rental-filled-in-100px.png
 import experiencesIconFilledImg from "../assets/favicons/experiences-filled-in-100px.png";
 
 //Import different pages
-import FlightPage from "./FlightPage";
+import FlightPage from "./FlightPageComponents/FlightPage";
 import DiningPage from "./DiningComponents/DiningPage";
 
 const Navbar: React.FC = () => {
